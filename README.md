@@ -22,7 +22,7 @@ The dataset comprises 5,137 records of used car listings, covering 22 variables 
 - **Average Listing Price**: ₹643,370.
 - **Range**: ₹151,000 to ₹2,537,000.
 - **Discounts**: The average discount offered was ₹50,253, with some discounts exceeding ₹550,000.
-- *From this Analysis we conclude that Vehicles with significant discounts likely indicate overstock or low demand.*
+- **From this Analysis we conclude that Vehicles with significant discounts likely indicate overstock or low demand.**
 
 ---
 
@@ -41,7 +41,7 @@ The dataset comprises 5,137 records of used car listings, covering 22 variables 
   4. Kwid (179 vehicles).  
   5. Elite i20 (177 vehicles).
 
-- **Insight**: Maruti dominates the market, with compact cars like the Baleno and Grand i10 being most popular.
+- **Insight: Maruti dominates the market, with compact cars like the Baleno and Grand i10 being most popular.**
 
 ---
 
@@ -56,7 +56,7 @@ The dataset comprises 5,137 records of used car listings, covering 22 variables 
   - Manual: 3,732 vehicles.  
   - Automatic: 1,405 vehicles.  
 
-- **Insight**: Petrol cars dominate the listings, likely due to their suitability for urban settings. Manual transmission remains the preferred choice, although automatic is gaining popularity.
+- **Insight: Petrol cars dominate the listings, likely due to their suitability for urban settings. Manual transmission remains the preferred choice, although automatic is gaining popularity.**
 
 ---
 
@@ -73,7 +73,7 @@ The dataset comprises 5,137 records of used car listings, covering 22 variables 
   - Ahmedabad (GJ01): 180 vehicles.  
   - Hyderabad (TS07): 143 vehicles.  
 
-- **Insight**: Maharashtra leads the listings, particularly Pune, reflecting high urban demand.
+- **Insight: Maharashtra leads the listings, particularly Pune, reflecting high urban demand.**
 
 ---
 
@@ -81,12 +81,12 @@ The dataset comprises 5,137 records of used car listings, covering 22 variables 
 - **Ownership**:
   - First-owner vehicles: 3,835 listings.  
   - Multi-owner vehicles: 1,302 listings.  
-  - **Insight**: Buyers prefer first-owner vehicles, highlighting concerns about maintenance and usage history.
+  - **Insight: Buyers prefer first-owner vehicles, highlighting concerns about maintenance and usage history.**
 
 - **Odometer Readings**:
   - Average Run-up: 48,831 km.  
   - Range: 282 km to 131,050 km.  
-  - **Insight**: Mileage significantly impacts resale value, with lower KMs driven fetching higher prices.
+  - **Insight: Mileage significantly impacts resale value, with lower KMs driven fetching higher prices.**
 
 ---
 
