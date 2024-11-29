@@ -1,4 +1,4 @@
-### Case Study: **Insights into Used Car Market Trends**
+## Case Study: **Insights into Used Car Market Trends**
 
 #### **Objective**
 To analyze the used car market data to uncover pricing trends, buyer preferences, geographic distribution, and the impact of ownership, mileage, and vehicle features on pricing.
